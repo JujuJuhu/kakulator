@@ -1,0 +1,12 @@
+C:\Users\jovit\source\bisayukbisa\bisayukbisa\bin\Debug\bisayukbisa.exe.config
+C:\Users\jovit\source\bisayukbisa\bisayukbisa\bin\Debug\bisayukbisa.exe
+C:\Users\jovit\source\bisayukbisa\bisayukbisa\bin\Debug\bisayukbisa.pdb
+C:\Users\jovit\source\bisayukbisa\bisayukbisa\bin\Debug\bisayukbisa.xml
+C:\Users\jovit\source\bisayukbisa\bisayukbisa\obj\Debug\bisayukbisa.vbproj.AssemblyReference.cache
+C:\Users\jovit\source\bisayukbisa\bisayukbisa\obj\Debug\bisayukbisa.Form1.resources
+C:\Users\jovit\source\bisayukbisa\bisayukbisa\obj\Debug\bisayukbisa.Resources.resources
+C:\Users\jovit\source\bisayukbisa\bisayukbisa\obj\Debug\bisayukbisa.vbproj.GenerateResource.cache
+C:\Users\jovit\source\bisayukbisa\bisayukbisa\obj\Debug\bisayukbisa.vbproj.CoreCompileInputs.cache
+C:\Users\jovit\source\bisayukbisa\bisayukbisa\obj\Debug\bisayukbisa.exe
+C:\Users\jovit\source\bisayukbisa\bisayukbisa\obj\Debug\bisayukbisa.xml
+C:\Users\jovit\source\bisayukbisa\bisayukbisa\obj\Debug\bisayukbisa.pdb
